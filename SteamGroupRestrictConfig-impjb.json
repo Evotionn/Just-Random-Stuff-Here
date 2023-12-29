@@ -1,0 +1,23 @@
+{
+  "GeneralSettings": {
+    "SteamGroupId": "103582791467417410",
+    "SteamApiKey": "STEAM API KEY KOY BURAYA BU SITEDEN https://steamcommunity.com/dev/apikey",
+    "Prefix": "{Blue}[IMPARATOR GAMING]"
+  },
+  "Messages": {
+    "Unauthorized": "{Red}Bu komudu kullanman için Steam Grubumuza katılman lazım.",
+    "NotJoinedGroup": "{Red}Steam gurubumuza katılmamışsın.",
+    "JoinedGroup": "{Green}Tebrikler! Steam Grubumuza katıldın ve bazı komutları kullanabilirsin."
+  },
+  "BlockedCommands": [
+      "!knife",
+      "/knife",
+      "!ws",
+      "/ws",
+      "!wp",
+      "/wp",
+      "!skins",
+      "/skins"
+  ],
+  "ConfigVersion": 1
+}

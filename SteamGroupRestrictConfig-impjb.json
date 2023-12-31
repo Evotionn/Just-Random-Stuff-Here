@@ -17,7 +17,9 @@
       "!wp",
       "/wp",
       "!skins",
-      "/skins"
+      "/skins",
+      "!fov",
+      "/fov"
   ],
   "ConfigVersion": 1
 }
